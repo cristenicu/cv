@@ -68,7 +68,7 @@ jobs = [
     company: 'Globant',
     start: '2020',
     end: 'present',
-    description: 'ReactJS, NodeJS, Android',
+    description: 'ReactJS, NodeJS, MySql, Android, Flutter (just a little bit), Docker/Kubernetes, Google Assistant, Firebase',
   },
   {
     title: 'Web Developer',
